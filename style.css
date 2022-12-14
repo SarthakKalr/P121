@@ -1,0 +1,17 @@
+body{
+    background-color:red;
+    color:whitesmoke;
+    font-weight: bolder;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.heading{
+font-size:xx-large;
+border-width:5px;
+border-color: black;
+color:black;
+background-color: cyan;
+}
